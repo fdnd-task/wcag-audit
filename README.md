@@ -16,3 +16,5 @@ Schrijf een samenvatting van de testbevindingen, en link naar je Wiki voor de vo
 ## Licentie
 
 This project is licensed under the terms of the [MIT license](./LICENSE).
+
+![image](https://github.com/user-attachments/assets/d4bad4b9-6c0d-428b-a060-9db6f099d13a)
